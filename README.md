@@ -30,13 +30,13 @@ the new GPT store announced by OpenAI.[^1]
 
 ## Roadmap
 
-I divide my road into committed plans vs uncommitted plans.
+I divide my roadmap into [committed plans](#committed-plans) and [uncommitted plans](#not-committed-plans).
 
 Both committed and un-committed plans do not come with a committed timeline.
 
-They will be done when they are done.
+They will be done when they are done. And in no particular order.
 
-If you want to get updated, you can create a GitHub issue and tell me your preferred method of getting updates. I am leaning towards a Substack for such purposes.
+If you want to get updated, you can create a GitHub issue and tell me your preferred method of getting updates. I am leaning towards a Substack for such purposes. Majority wins.
 
 ### Committed Plans
 
