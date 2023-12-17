@@ -3,8 +3,8 @@
 | Attribute | Details         |
 |-----------|-----------------|
 | Author    | Kimsia          |
-| Date      | 2023-12-10 Sunday |
-| Version   | 0.0.1           |
+| Date      | 2023-12-17 Sunday |
+| Version   | 0.0.2           |
 
 
 
@@ -42,11 +42,11 @@ getting updates. I am leaning towards a Substack for such purposes. Majority win
 
 ### Committed Plans
 
-- [ ] A copy-and-paste, hello-world, canonical example[^2] using micro Django and DigitalOcean App
+- [x] A copy-and-paste, hello-world, canonical example[^2] using micro Django and DigitalOcean App
 Platform to set up OAuth-protected endpoints for custom GPT.
 
 - [ ] A Loom video tutorial on how to use micro Django and DigitalOcean App Platform to set up
-OAuth-protected endpoints for custom GPT.
+OAuth-protected endpoints for custom GPT. (~65% done)
 
 - [ ] A more polished and edited YouTube video tutorial on using micro Django and DigitalOcean App
 Platform.
@@ -69,3 +69,9 @@ technologies and infrastructures.
 micro Django and DigitalOcean App Platform to set up OAuth-protected endpoints for custom GPT
 (github.com)](https://github.com/GreenDeploy-io/oauth-gpt-django-doap) last commit on 2023-12-10
 Sunday
+
+## Other People Doing Similar Things
+
+| Repo URL | Tech Stack | Same Use Case? | Got Video? | Verified by Kimsia? |
+|----------|------------|----------------|------------|---------------------|
+| https://github.com/Anil-matcha/GPT-Auth     | Next.js, Flask, sqlalchemy    | N            | N        | N                 |
